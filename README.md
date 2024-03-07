@@ -20,8 +20,8 @@ Drag and drop Router, 2 switches, 4 Pc's and connect all using copper straight t
 <img src="https://i.imgur.com/rz8xdbj.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on Router and configure it using the following CLI Commands:  <br/>
+<img src="https://i.imgur.com/RozvR5e.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
