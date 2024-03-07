@@ -24,23 +24,14 @@ Click on Router and configure it using the following CLI Commands:  <br/>
 <img src="https://i.imgur.com/RozvR5e.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on a pc. Then click on Desktop. Then on IP Configuration: <br/>
+<img src="https://i.imgur.com/Dl7FULz.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter in an IP address for each PC (make sure its on the correct network), enter in the subnet mask, and finally the default gateway:  <br/>
+<img src="https://i.imgur.com/AkGG87f.png"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Drag PDU icon between Pc's and router and Pc's to Pc's on another network. Check bottom right to see if ICMP was successful or failed:  <br/>
+Click on the PDU icon and test connection between Pc's and router and between Pc's on seperate networks. Check bottom right to see if ICMP states successful or failed (if failed check and reconfigure correct ip addresses on PC's to make sure on correct network):  <br/>
 <img src="https://i.imgur.com/0YIF15F.png"/>
 </p>
 
