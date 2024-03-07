@@ -1,7 +1,7 @@
 <h1>Network Configuration Home Lab</h1>
 
 <h2>Description</h2>
-In this video, I am covering configuration of a basic network using 4 pc's, 2 switches and 1 router as well as how to effectively use and send PDU in and across the network using Cisco packet tracer
+In this lab, I am covering configuration of a basic network using 4 pc's, 2 switches and 1 router as well as how to effectively use and send PDU in and across the network using Cisco packet tracer
 <br />
 
 
